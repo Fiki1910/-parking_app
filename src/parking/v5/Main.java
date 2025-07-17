@@ -2,6 +2,7 @@ package parking.v5;
 
 
 public class Main {
+
     public static void main(String[] args) {
         Parking parking1 = new Parking(20, 1, 3, 10,5);
         Pojazd pojazd1 = new Pojazd( "BMW", "318D", "XYZ", TypPojazdu.SAMOCHOD);

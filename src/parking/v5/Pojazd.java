@@ -10,6 +10,7 @@ public class Pojazd {
 
     private static int counter = 0;
 
+
     public Pojazd(String marka, String model, String numerRejestracyjny, TypPojazdu typPojazdu) {
         this.ID = counter++;
         this.marka = marka;
