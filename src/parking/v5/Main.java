@@ -25,5 +25,4 @@ public class Main {
         parking1.wypuscPojazd(pojazd1.getID());
         parking1.stanParkingu();
     }
-
 }

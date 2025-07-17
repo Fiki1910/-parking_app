@@ -6,4 +6,3 @@ public enum TypPojazdu {
     MOTOCYKL,
     ROWER
 }
-
